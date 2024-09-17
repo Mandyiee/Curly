@@ -1,4 +1,4 @@
-# Snake Game
+# Curly
 
 ## Overview
 
@@ -29,8 +29,8 @@ This is a simple **Snake Game** implemented in C, designed to run on both Window
 
    **For Unix-based systems (Linux/macOS):**
    ```bash
-   gcc snake_game.c -o snake_game -lm
-   ./snake_game
+   gcc ga.c -o game
+   ./game
    ```
 
    **For Windows (MinGW):**
@@ -41,6 +41,7 @@ This is a simple **Snake Game** implemented in C, designed to run on both Window
 
 2. **Start the Game**:
    - After compilation, run the executable to start the game.
+     ![Curly](https://raw.githubusercontent.com/Mandyiee/Curly/main/curly.png)
    
     
 ## License
