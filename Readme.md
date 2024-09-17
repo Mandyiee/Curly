@@ -35,7 +35,7 @@ This is a simple **Snake Game** implemented in C, designed to run on both Window
 
    **For Windows (MinGW):**
    ```bash
-   gcc ga.c -o game
+   gcc ga.c -o game -lm
    ./game
    ```
 
