@@ -43,7 +43,4 @@ This is a simple **Snake Game** implemented in C, designed to run on both Window
    - After compilation, run the executable to start the game.
      ![Curly](https://raw.githubusercontent.com/Mandyiee/Curly/main/curly.png)
    
-    
-## License
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and improve the code as you see fit.
